@@ -1,0 +1,7 @@
+Dataset,Architecture,Accuracy,F1,Train Time (sec),Notes
+Adult,MLP,0.8581,0.6737,7.9,best_epoch=3
+Adult,CNN,0.8624,0.6885,94.2,best_epoch=12
+CIFAR-10,MLP,0.517,0.5167,211.1,best_epoch=8
+CIFAR-10,CNN,0.741,0.7383,765.4,best_epoch=10
+PCam,MLP,0.677,0.6888,284.4,best_epoch=1
+PCam,CNN,0.771,0.791,1515.0,best_epoch=1
